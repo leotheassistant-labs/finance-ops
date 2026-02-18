@@ -1,0 +1,32 @@
+# Node
+node_modules/
+.npm/
+.next/
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+# Workspace-specific
+inputs/
+outputs/
+notes/
+skills/
+memory/
+.google/
+.npm-global/
+*.deb
+ENV/
+# Build artifacts
+coverage/
+dist/
+.eggs/
+*.egg-info/
+# Logs
+logs/
+*.log
